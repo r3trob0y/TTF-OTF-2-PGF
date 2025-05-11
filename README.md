@@ -1,4 +1,4 @@
-# PGF Font Converter / Конвертер шрифтов PGF
+# PGF Font Converter / Конвертер шрифтов PGF (Beta 0.1)
 
 ### Description  
 A modern Python rewrite of a legacy ttf2pgf font converter tool. Originally developed for old Win systems, now works flawlessly on Win11.

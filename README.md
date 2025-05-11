@@ -21,7 +21,7 @@ The Size + Spacing combination is selected individually for each font.
 ---
 
 ### Описание  
-Современная Python-версия ttf2pgf конвертера. Изначально разработан под Win11, теперь отлично работает на Win11.
+Современная Python-версия ttf2pgf конвертера. Изначально разработан под старые Win системы, теперь отлично работает на Win11.
 
 ### Необходимые библиотеки
 - Pillow

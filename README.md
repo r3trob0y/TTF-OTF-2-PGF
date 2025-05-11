@@ -1,7 +1,7 @@
 # PGF Font Converter / Конвертер шрифтов PGF
 
 ### Description  
-A modern Python rewrite of a legacy TTF_2_PGF font converter tool. Originally developed for old Win systems, now works flawlessly on Win11.
+A modern Python rewrite of a legacy ttf2pgf font converter tool. Originally developed for old Win systems, now works flawlessly on Win11.
 
 ### Required libs  
 - Pillow
@@ -21,7 +21,7 @@ The Size + Spacing combination is selected individually for each font.
 ---
 
 ### Описание  
-Современная Python-версия TTF_2_PGF конвертера. Изначально разработан под Win11, теперь отлично работает на Win11.
+Современная Python-версия ttf2pgf конвертера. Изначально разработан под Win11, теперь отлично работает на Win11.
 
 ### Необходимые библиотеки
 - Pillow
